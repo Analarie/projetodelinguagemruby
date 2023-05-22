@@ -19,4 +19,4 @@ num = 7
 end
 
 # times usado com steps
-0.steps(10, 2) {|i| puts "os números pares presentes entre 1 e 10 são: #(i)"}
+0.step(10, 2) {|i| puts "os numeros pares entre 0 e 10 são #{i}"}
