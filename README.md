@@ -1,7 +1,8 @@
 # RUBY
 <p align="center">
-    <img src="assets/ruby.png">
+    <img height="400" width="400" src="assets/ruby.png">
 </p>
+
 # Introdução à Linguagem Ruby
 
 Este projeto tem como objetivo fornecer uma introdução abrangente à linguagem de programação Ruby. Aqui você encontrará informações sobre os conceitos básicos da linguagem, sua sintaxe, recursos avançados e exemplos práticos.
