@@ -1,6 +1,6 @@
 # RUBY
 <p align="center">
-    <img height="400" width="400" src="assets/ruby.png">
+    <img height="200" width="200" src="assets/ruby.png">
 </p>
 
 # Introdução à Linguagem Ruby
@@ -67,6 +67,8 @@ Escolha o método apropriado para prosseguir.
 ### Instalação no Windows
 
 #### Passo 3: Baixar o instalador
+
+<img height="180" width="auto" src="assets/print_ruby.jpeg">
 
 Acesse o site oficial do Ruby em https://www.ruby-lang.org/pt/downloads/
 Clique no link para baixar o instalador para Windows.
